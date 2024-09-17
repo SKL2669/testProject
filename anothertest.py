@@ -1,0 +1,1 @@
+print("It is to test if add file works properly.")
